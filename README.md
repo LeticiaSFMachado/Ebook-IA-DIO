@@ -1,4 +1,4 @@
-# Ebook-Python
+# Ebook-IA-DIO
 Atividade proposta pela Digital Innovation One (DIO) de criação de um ebook utilizando ferramentas de inteligência artificial. 
 
 # Contexto:
